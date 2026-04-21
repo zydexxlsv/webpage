@@ -376,7 +376,6 @@
       <div class="need-card"><div class="need-icon clothing">👔</div><h4>Men's clothing</h4><span class="need-badge urgent">Urgent</span></div>
       <div class="need-card"><div class="need-icon hygiene">🧴</div><h4>Hygiene kits</h4><span class="need-badge urgent">Urgent</span></div>
       <div class="need-card"><div class="need-icon household">🛏️</div><h4>Bedding & linens</h4><span class="need-badge moderate">Needed</span></div>
-      <div class="need-card"><div class="need-icon food">🥫</div><h4>Non-perishable food</h4><span class="need-badge moderate">Needed</span></div>
       <div class="need-card"><div class="need-icon transport">🚌</div><h4>Bus passes</h4><span class="need-badge urgent">Urgent</span></div>
       <div class="need-card"><div class="need-icon documents">📁</div><h4>Office supplies</h4><span class="need-badge good">Stocked</span></div>
       <div class="need-card"><div class="need-icon clothing">👗</div><h4>Women's clothing</h4><span class="need-badge moderate">Needed</span></div>
@@ -488,8 +487,8 @@
 <div id="about" class="page">
   <section style="max-width: 700px;">
     <div class="section-label">Our mission</div>
-    <h2>Why Fresh Start Gives exists</h2>
-    <p style="font-size: 16px; line-height: 1.75; color: var(--text-muted); margin-bottom: 20px;">Nearly 600,000 people leave incarceration in the U.S. every year. Many walk out with a bus ticket and Nothing else. Those entering sober living face the same challenge — starting over with almost nothing, often no support system, and enormous pressure to succeed.</p>
+    <h2>Why Fresh Start Finds exists</h2>
+    <p style="font-size: 16px; line-height: 1.75; color: var(--text-muted); margin-bottom: 20px;">At Fresh Start Finds, our mission is to provide affordable, quality items while creating opportunities for individuals seeking a second chance. We believe in the power of new beginnings giving both people and possessions a renewed purpose in a supportive and welcoming community.</p>
     <p style="font-size: 16px; line-height: 1.75; color: var(--text-muted); margin-bottom: 20px;">We believe that something as simple as a clean set of interview clothes, a hygiene kit, or a set of sheets can change the trajectory of a person's life. Dignity matters. Stability matters. Belonging matters.</p>
     <p style="font-size: 16px; line-height: 1.75; color: var(--text-muted); margin-bottom: 36px;">Fresh Start Gives is a community platform connecting generous neighbors with people who need a hand up — not a handout, but a foundation to rebuild on.</p>
     <div class="steps">
